@@ -1,7 +1,7 @@
 # LinkedIn-Recruitment-Insights
 
 ## Overview
-This project was developed during my internship at Vietcombank, focusing on analyzing talent gaps in Vietnam's largest bank, particularly within the **IT and Data teams**.
+This project was developed during my internship at Vietcombank as a **Data Analyst**, focusing on analyzing talent gaps in Vietnam's largest bank, particularly within the **IT and Data teams**.
 
 Additionally, I built a **CV Scanner App** powered by **Gemini Pro** to streamline the hiring process.  
 Thank you for checking out my work! 😊
